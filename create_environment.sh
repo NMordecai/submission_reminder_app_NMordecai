@@ -82,4 +82,4 @@ EOF
 #Making all files executable
 chmod +x $momo/startup.sh $momo/app/reminder.sh $momo/modules/functions.sh
 #appropriate feedback
-echo 'Environment successfully created'
+echo 'Environment is created'

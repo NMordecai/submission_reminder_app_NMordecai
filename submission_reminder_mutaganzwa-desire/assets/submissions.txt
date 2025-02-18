@@ -1,0 +1,14 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Uwase, speech presentation, submitted
+Gloria, computer science, not submitted
+Ishimwe, History assignment, submitted
+Shema, SDL, not submitted
+Elise, library notes, not submitted
+Belyse, Maths assignment, submitted
+Denyse, Physics individual work, not submitted
+Bebe, English assignment, submitted
+Lucy, Biology work, not submitted
