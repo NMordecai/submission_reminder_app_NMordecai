@@ -33,12 +33,12 @@ This script will prompt you for your name. It will then create the application d
 Bash
 
 cd submission_reminder_YourName  # Replace YourName with the name you entered
-#Configuration
+## Configuration
 1. config.env: This file contains environment variables used by the application.  Review the contents and modify them as needed.  Pay particular attention to any paths or settings that might need adjustment for your system.
 
 2. submissions.txt: This file contains the list of students and their submission statuses.  The format is crucial for the application to work correctly.  Each line represents a student record.  Ensure you follow the existing format when adding or modifying entries.  You must add at least 5 new student records for testing purposes. Example format: student_id,student_name,submission_status,due_date.
 
-#Running the Application
+## Running the Application
 1. Make the startup.sh Script Executable:
 
 Bash
@@ -51,7 +51,7 @@ Bash
 ./startup.sh
 This script initializes the environment (sources functions.sh, loads environment variables from config.env) and then executes the reminder.sh script, which handles the core submission reminder logic.
 
-#Application Details
+## Application Details
 functions.sh: Contains reusable functions used by the reminder.sh script.
 reminder.sh: The main script that processes student submissions and sends reminders.
 startup.sh: The entry point for running the application. It sets up the necessary environment and launches reminder.sh.
