@@ -11,7 +11,7 @@ Before running the application, ensure you have the following:
 ## Installation
 
 1. **Clone the Repository:**
-This will help you access the files in the application
+This will help you access the files and folders in the application
    ```bash
    git clone [https://github.com/your_github_username/submission_reminder_app_githusername.git](https://github.com/your_github_username/submission_reminder_app_githusername.git)
 Replace your_github_username with your actual GitHub username.
