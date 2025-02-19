@@ -37,6 +37,7 @@ cd submission_reminder_YourName  # Replace YourName with the name you entered
 1. config.env: This file contains environment variables used by the application.  Review the contents and modify them as needed.  Pay particular attention to any paths or settings that might need adjustment for your system.
    # This is the config file
 ASSIGNMENT="Shell Navigation"
+
 DAYS_REMAINING=2
 
 
