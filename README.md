@@ -44,9 +44,13 @@ DAYS_REMAINING=2
 3. submissions.txt: This file contains the list of students and their submission statuses.  The format is crucial for the application to work correctly.  Each line represents a student record.  Ensure you follow the existing format when adding or modifying entries because this application is an open-source application.
    # This is the submissions.txt
    student, assignment, submission status
+   
 Chinemerem, Shell Navigation, not submitted
+
 Chiagoziem, Git, submitted
+
 Divine, Shell Navigation, not submitted
+
 Anissa, Shell Basics, submitted
 
 
